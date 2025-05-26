@@ -31,6 +31,22 @@ create_query_des = """
                     Marca
                 ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """
+query_update_des = """
+                        UPDATE dbo.SIIAPP_Des
+                        SET 
+                            N_cotizacion = ?, 
+                            PT = ?, 
+                            Producto = ?, 
+                            Cliente = ?,
+                            Notif_Sanitaria = ?,
+                            Estado_M = ?, 
+                            Dis_Des = ?, 
+                            Obs = ?,
+                            NIT = ?,
+                            Comercial = ?,                     
+                            Marca = ?                     
+                        WHERE N_control = ?
+                    """
 load_query_costos = """SELECT
                     SIIAPP_Bod.N_Control
                     ,SIIAPP_Des.Fecha_Soli

@@ -2597,3 +2597,184 @@ INFO:root:LDAP bind successful for ds.
 INFO:root:Access granted based on group: SISTEMAS
 INFO:root:LDAP bind successful for ds.
 INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+ERROR:root:LDAP error for : NTLM needs domain\username and a password
+ERROR:root:LDAP error for : NTLM needs domain\username and a password
+ERROR:root:LDAP error for : NTLM needs domain\username and a password
+ERROR:root:LDAP error for : NTLM needs domain\username and a password
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:N_control seleccionado: 123
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:N_control seleccionado: 123
+INFO:root:Inicio de actualización para N_control: 123
+INFO:root:Registro 123 actualizado exitosamente.
+INFO:root:N_control seleccionado: 123
+INFO:root:Inicio de actualización para N_control: 123
+INFO:root:Registro 123 actualizado exitosamente.
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:N_control seleccionado: DIC 24328-1
+INFO:root:N_control seleccionado: DIC 24328-1
+INFO:root:N_control seleccionado: 13885
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+ERROR:root:LDAP error for adj: automatic bind not successful - invalidCredentials
+ERROR:root:LDAP error for adj: automatic bind not successful - invalidCredentials
+INFO:root:LDAP bind successful for adj.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for adj.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:N_control seleccionado: ABR 25200
+ERROR:root:Error fetching item data: ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sa'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sa'. (18456)")
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:N_control seleccionado: ABR 25211
+INFO:root:N_control seleccionado: ABR 25198-2
+INFO:root:N_control seleccionado: ABR 25208
+INFO:root:N_control seleccionado: DIC 24329-2 
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
+INFO:root:N_control seleccionado: ABR 25208
+INFO:root:N_control seleccionado: ABR 25182
+INFO:root:N_control seleccionado: ABR 25181-1
+INFO:root:N_control seleccionado: ENE 25004
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:LDAP bind successful for ds.
+INFO:root:Access granted based on group: SISTEMAS
+INFO:root:Disabling tabs: ['Nan']
+WARNING:root:Tab 'Nan' not found in segmented button dictionary.
+INFO:root:Set active tab to: Produccion
