@@ -1,4 +1,9 @@
 *.py linguist-detectable=true
-*.html linguist-detectable=false
 *.tex linguist-detectable=false
 *.tsql linguist-detectable=false
+*.html linguist-detectable=false
+/Assets/* linguist-detectable=false
+/PDF/* linguist-detectable=false
+/build/* linguist-detectable=false
+/modules/* linguist-detectable=false
+/themes/* linguist-detectable=false
