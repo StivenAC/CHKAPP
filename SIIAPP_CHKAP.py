@@ -4,7 +4,7 @@ import modules.gui_frame as gf
 import modules.login as lg
 import modules.login_frame as logf
 import modules.tab_view as tb
-
+ 
 class App(ctk.CTk):
     def __init__(self):
         super().__init__()
